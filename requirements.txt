@@ -1,0 +1,12 @@
+# Tested with Python 3.10 on Windows 11
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+streamlit==1.65.0
+httpx==0.28.1
+# Tests
+pytest==8.4.2
+# Only needed by scripts/generate_all_figures.py
+matplotlib==3.10.9

@@ -1,0 +1,16 @@
+,value
+records,3240
+days,270
+clouds,3
+services,12
+true_anomaly_rate_pct,1.3888888888888888
+forecast_holdout_days,45
+best_forecast_model,Additive Seasonal
+best_mape_pct,3.044424919349053
+best_rmse_inr,587.7003078626708
+if_precision,0.8888888888888888
+if_recall,0.8888888888888888
+if_f1,0.8888888888888888
+rightsizing_accuracy,0.9166666666666666
+estimated_monthly_savings_inr,88331.69249999999
+portfolio_saving_pct,21.24713212509151

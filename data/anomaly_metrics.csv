@@ -1,0 +1,2 @@
+model,precision,recall,f1,true_anomalies,flagged
+Isolation Forest,0.8888888888888888,0.8888888888888888,0.8888888888888888,45,45

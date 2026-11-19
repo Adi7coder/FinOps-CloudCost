@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Local demo state (recreated by python -m app.init_demo or on backend start)
+runtime/
+*.db
+*.db-journal
+
+# Secrets and local configuration
+.env
+*.pem
+*.key
+credentials*.json
+
+# Generated outputs (reproducible with the scripts in scripts/)
+data/generated_multi_cloud_finops_dataset.csv
+figures/recreated/
+results/
+*.zip
+
+# Logs, temporary and editor files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
